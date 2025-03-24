@@ -125,11 +125,6 @@ Puedes probar la función con diferentes tamaños de buffer y tipos de archivos:
 - Archivos sin saltos de línea
 - Descriptores de archivo inválidos
 
-## 📄 Licencia
-
-Este proyecto forma parte del plan de estudios de [42](https://www.42.fr/).
-
-
 
 ====================================
 
@@ -262,6 +257,3 @@ You can test the function with different buffer sizes and file types:
 - Files without line breaks
 - Invalid file descriptors
 
-## 📄 License
-
-This project is part of the [42](https://www.42.fr/) curriculum.
